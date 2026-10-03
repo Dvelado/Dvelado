@@ -68,12 +68,3 @@
 [![Curso de SQL](https://img.shields.io/badge/Platzi-Curso_de_SQL-98CA3F?style=for-the-badge)](https://platzi.com/p/TU_USUARIO_PLATZI/curso/XXXX-curso/diploma/detalle/)
 [![Curso de Docker](https://img.shields.io/badge/Platzi-Curso_de_Docker-98CA3F?style=for-the-badge)](https://platzi.com/p/TU_USUARIO_PLATZI/curso/XXXX-curso/diploma/detalle/)
 [![Fundamentos de Cloud](https://img.shields.io/badge/Platzi-Fundamentos_de_Cloud-98CA3F?style=for-the-badge)](https://platzi.com/p/TU_USUARIO_PLATZI/curso/XXXX-curso/diploma/detalle/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
