@@ -68,3 +68,7 @@
 [![Curso de SQL](https://img.shields.io/badge/Platzi-Curso_de_SQL-98CA3F?style=for-the-badge)](https://platzi.com/p/TU_USUARIO_PLATZI/curso/XXXX-curso/diploma/detalle/)
 [![Curso de Docker](https://img.shields.io/badge/Platzi-Curso_de_Docker-98CA3F?style=for-the-badge)](https://platzi.com/p/TU_USUARIO_PLATZI/curso/XXXX-curso/diploma/detalle/)
 [![Fundamentos de Cloud](https://img.shields.io/badge/Platzi-Fundamentos_de_Cloud-98CA3F?style=for-the-badge)](https://platzi.com/p/TU_USUARIO_PLATZI/curso/XXXX-curso/diploma/detalle/)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity -->
+<!-- END_SECTION:activity -->
